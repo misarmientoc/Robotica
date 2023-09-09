@@ -21,7 +21,9 @@ Se busco que la heraramienta fuera lo mas sencillo de construir y de facil monta
 | 2    |Tubo PVC 1/2"     | $1.000|
 | 3    |Unión PVC         | $2.000|
 | 4    |Colgante galvaza  | $2.000|
-| 4    |Tornillos golosos | $  600|
+| 5    |Tornillos golosos | $  600|
+| 6    |Caucho almohadilla| $1.000|
+|      |Total             |$12.600|
 
    
 Para la solución de este problema, debe crearse un nuevo proyecto, seleccionandose un robot tipo IRB140_6_81, la referencia que se encuentra en el laboratorio. Se seleccionó un controlador virtual 6.15.03 Build 3019.
