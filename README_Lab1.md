@@ -4,7 +4,7 @@
 
 # Robotica Laboratorio 1
 
-##Integrantes
+## Integrantes
 
 Norma Lorena Martinez Zavala
 Miguel Angel Sarmiento Cabarcas
