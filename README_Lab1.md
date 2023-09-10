@@ -72,6 +72,10 @@ Ilustración 3. Funciones de transición de palabras.
 
 ![image](https://github.com/misarmientoc/Robotica/blob/main/Herramienta.png)
 
+El archivo STEP del modelo de la herramienta se encuentra en el siguiente link 
+
+https://github.com/misarmientoc/Robotica/blob/main/Herramienta.stp
+
    
 7. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
 
