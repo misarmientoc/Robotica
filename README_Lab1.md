@@ -10,10 +10,12 @@
 
 
 1. Descripción de la solución planteada.
-
-#### Diseño de la herramienta
-
-Se busco que la heraramienta fuera lo mas sencillo de construir y de facil montaje, ademas que evitara singularidades por angulos no permitidos en el robot, es decir que la linea del eje de las articulaciones no fuera perpendicular a la linea de accion de la herramienta, tambien se coloco una almohadilla en caucho para darle flexibilidad y evitar que se dañara la punta del marcador, los materiales y su costo fueron
+2. Diagrama de flujo de acciones del robot
+3. Plano de planta de la ubicación de cada uno de los elementos.
+4. Descripción de las funciones utilizadas.
+5. Diseño de la herramienta.
+   
+   Se busco que la heraramienta fuera lo mas sencillo de construir y de facil montaje, ademas que evitara singularidades por angulos no permitidos en el robot, es decir que la linea del eje de las articulaciones no fuera    perpendicular a la linea de accion de la herramienta, tambien se coloco una almohadilla en caucho para darle flexibilidad y evitar que se dañara la punta del marcador, los materiales y su costo fueron
 
 | Item | Descripción      | Costo |
 |------|------------------|-------|
@@ -24,6 +26,17 @@ Se busco que la heraramienta fuera lo mas sencillo de construir y de facil monta
 | 5    |Tornillos golosos | $  600|
 | 6    |Caucho almohadilla| $1.000|
 |      |Total             |$12.600|
+
+
+
+
+   
+7. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
+8. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
+reales.
+
+
+
 
    
 Para la solución de este problema, debe crearse un nuevo proyecto, seleccionandose un robot tipo IRB140_6_81, la referencia que se encuentra en el laboratorio. Se seleccionó un controlador virtual 6.15.03 Build 3019.
@@ -41,6 +54,11 @@ En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 ![image](https://github.com/misarmientoc/Robotica/assets/66492359/ba61187e-594a-4b40-bf35-d868ee84b68a)
 
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
+
+
+
+7.  Videos simulacion 
+https://youtu.be/F7px0tGtAVw
 
  
 
