@@ -13,7 +13,7 @@
 2. Diagrama de flujo de acciones del robot
 3. Plano de planta de la ubicación de cada uno de los elementos.
 4. Descripción de las funciones utilizadas.
-Descripción de las funciones utilizadas.
+
 El código está organizado en módulos y procedimientos (PROC). Cada procedimiento representa una secuencia la secuencia de movimientos que el robot debe llevar a cabo.
 Como primera función, se tiene la función main(), que es el punto de entrada principal del programa. Cuando se ejecuta el programa, la ejecución comienza en esta función la cual llama a las funciones Path_10(), Path_20(), Path_30(), y Path_40(). Siendo estas las funciones que contienen las secuencias de movimientos específicos que el robot debe realizar.
  
@@ -26,6 +26,7 @@ Después, simplemente se específica la herramienta con la que se va a trabajar 
 Ilustración 2. Función Path10()
 Como se puede visualizar en la imagen 2, se manda esta serie de instrucciones para cada uno de los puntos dónde se moverá el robot.
 Cada palabra realizada por el robot está contenida en una función Pathx().
+
 •	Path10(): Corresponde a la primera palabra “JAIME”.
 •	Path20(): Corresponde a la segunda palabra “LOREN”.
 •	Path30(): Corresponde a la tercera palabra “MIGUE”.
