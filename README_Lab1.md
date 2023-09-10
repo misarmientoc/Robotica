@@ -27,6 +27,10 @@ En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
 
+Los materiales necesarios para la construcción de la herramienta, serán detallados con precios más adelante en el documento, aquí se presenta el resultado físico de la implementación del modelo:
+![image](https://github.com/misarmientoc/Robotica/assets/66492359/ebd55e11-ef8c-49e9-9017-1f68f5036145)
+
+
 
 
 2. Diagrama de flujo de acciones del robot
