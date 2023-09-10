@@ -14,16 +14,16 @@
 Para la solución de este problema, debe crearse un nuevo proyecto, seleccionandose un robot tipo IRB140_6_81, la referencia que se encuentra en el laboratorio. Se seleccionó un controlador virtual 6.15.03 Build 3019.
 Se crea un objeto de trabajo(El pastel) y se coloca en el cuarto cuadrante (+ -) con respecto al eje de coordenadas wobj0, el cual es creado en el centro de la base del robot.
 
-![image](https://github.com/misarmientoc/Robotica/assets/66492359/7813bcfb-5279-479a-8c3e-401e874176ab)
+<img src="/cuadrantes.png">
 
 Se puede evidenciar en la imagen un bloque de dimensiones 18cmx18cmxN, sobre las que se encuentran las coordenadas que conforman los nombres y la figura.
 
-![image](https://github.com/misarmientoc/Robotica/assets/66492359/d9059fda-b45f-4b79-b9a3-d2c11496dded)
+<img src="/curvas.png">
 
 En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 
-<img src="/BrazoF2.png" max-width="80%" height="auto" >
-<img src="/BrazoFisico.png" max-width="80%" height="auto">
+<img src="/BrazoF2.png">
+<img src="/BrazoFisico.png">
 
 
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
@@ -31,7 +31,7 @@ En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo
 Los materiales necesarios para la construcción de la herramienta, serán detallados con precios más adelante en el documento, aquí se presenta el resultado físico de la implementación del modelo:
 
 
-<img src="/Herramienta.png" scale="0.5">
+<img src="/Herramienta.png">
 
 
 
@@ -84,7 +84,7 @@ Ilustración 3. Funciones de transición de palabras. <p>
 |      |Total             |$12.600|
 
 
-![image](https://github.com/misarmientoc/Robotica/blob/main/Herramienta.png)
+<img src="/Plano_planta.png">
 
 El archivo STEP del modelo de la herramienta se encuentra en el siguiente link 
 
