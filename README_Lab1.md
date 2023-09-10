@@ -67,6 +67,7 @@ Ilustración 3. Funciones de transición de palabras.
 | 4    |Colgante galvaza  | $2.000|
 | 5    |Tornillos golosos | $  600|
 | 6    |Caucho almohadilla| $1.000|
+| 6    |Marcador          | $3.000|
 |      |Total             |$12.600|
 
 
