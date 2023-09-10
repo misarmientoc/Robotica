@@ -74,7 +74,12 @@ Ilustración 3. Funciones de transición de palabras.
 
    
 7. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
-8. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
+
+   El código en RAPID se encuentra en la siguiente direción 
+
+https://github.com/misarmientoc/Robotica/blob/main/Module1.mod
+   
+9. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
 reales.
 
 ### Simulación 
