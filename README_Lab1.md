@@ -58,7 +58,9 @@ Ilustración 3. Funciones de transición de palabras.
 8. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
 reales.
 
+### Simulación 
 
+https://youtu.be/F7px0tGtAVw
 
 
    
