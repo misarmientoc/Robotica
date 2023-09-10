@@ -40,7 +40,8 @@ Los materiales necesarios para la construcción de la herramienta, serán detall
 [![Whats-App-Image-2023-09-09-at-8-21-37-PM.jpg](https://i.postimg.cc/63Y674s5/Whats-App-Image-2023-09-09-at-8-21-37-PM.jpg)](https://postimg.cc/tZnGwTCL) <p>
 ### 3. Plano de planta de la ubicación de cada uno de los elementos.
 Se presenta a continuación una imagen del plano de planta, el cual se puede encontrar como /layout.pdf
- ![image](https://github.com/misarmientoc/Robotica/assets/66492359/f284043a-641f-4f7f-bf3f-3810d222082f)
+
+<img src="/Plano_planta.png">
   
 ### 4. Descripción de las funciones utilizadas.
 
@@ -84,7 +85,7 @@ Ilustración 3. Funciones de transición de palabras. <p>
 |      |Total             |$12.600|
 
 
-<img src="/Plano_planta.png">
+<img src="/herramienta.ipj">
 
 El archivo STEP del modelo de la herramienta se encuentra en el siguiente link 
 
