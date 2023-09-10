@@ -85,7 +85,7 @@ Ilustración 3. Funciones de transición de palabras. <p>
 |      |Total             |$12.600|
 
 
-<img src="/herramienta.ipj">
+<img src="/Herramienta.png">
 
 El archivo STEP del modelo de la herramienta se encuentra en el siguiente link 
 
