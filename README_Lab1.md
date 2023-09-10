@@ -22,13 +22,13 @@ Se puede evidenciar en la imagen un bloque de dimensiones 18cmx18cmxN, sobre las
 
 En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 
-<img src="Robotica/BrazoF2.png">
-<img src="Robotica/BrazoFisico.png">
+<img src="/BrazoF2.png">
+<img src="/BrazoFisico.png">
 
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
 
 Los materiales necesarios para la construcción de la herramienta, serán detallados con precios más adelante en el documento, aquí se presenta el resultado físico de la implementación del modelo:
-<img src="Robotica/Herramienta.png">
+<img src="/Herramienta.png">
 
 
 
