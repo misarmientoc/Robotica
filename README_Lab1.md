@@ -51,7 +51,7 @@ Ilustración 3. Funciones de transición de palabras.
 |      |Total             |$12.600|
 
 
-
+![image](https://github.com/misarmientoc/Robotica/blob/main/Herramienta.png)
 
    
 7. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
