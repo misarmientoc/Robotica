@@ -60,7 +60,9 @@ reales.
 
 ### Simulación 
 
-https://youtu.be/F7px0tGtAVw
+- https://youtu.be/F7px0tGtAVw
+
+- https://youtu.be/npnxBCHKuRM
 
 
    
@@ -82,8 +84,7 @@ En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo
 
 
 
-7.  Videos simulacion 
-https://youtu.be/F7px0tGtAVw
+
 
  
 
