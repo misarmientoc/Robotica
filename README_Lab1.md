@@ -25,10 +25,13 @@ En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 <img src="/BrazoF2.png" width="400" height="400" align="left">
 <img src="/BrazoFisico.png" width="400" height="400" align="left">
 
+
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
 
 Los materiales necesarios para la construcción de la herramienta, serán detallados con precios más adelante en el documento, aquí se presenta el resultado físico de la implementación del modelo:
-<img src="/Herramienta.png">
+
+
+<img src="/Herramienta.png" width="400" height="400" align="left">
 
 
 
