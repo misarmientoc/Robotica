@@ -65,7 +65,7 @@ Al final de cada procedimiento de movimiento, se llama a otro procedimiento, com
  
 Ilustración 3. Funciones de transición de palabras. <p>
 
-### 6. Diseño de la herramienta.
+### 5. Diseño de la herramienta.
    
    Se busco que la heraramienta fuera lo mas sencillo de construir y de facil montaje, ademas que evitara singularidades por angulos no permitidos en el robot, es decir que la linea del eje de las articulaciones no fuera    perpendicular a la linea de accion de la herramienta, tambien se coloco una almohadilla en caucho para darle flexibilidad y evitar que se dañara la punta del marcador, los materiales y su costo fueron
 
@@ -88,13 +88,13 @@ El archivo STEP del modelo de la herramienta se encuentra en el siguiente link
 https://github.com/misarmientoc/Robotica/blob/main/Herramienta.stp
 
    
-7. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
+### 6. Código en RAPID del m´odulo utilizado para el desarrollo de la práctica.
 
    El código en RAPID se encuentra en la siguiente direción 
 
 https://github.com/misarmientoc/Robotica/blob/main/Module1.mod
    
-9. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
+### 7. Vídeo que contenga la simulación en RobotStudio así como la implementación de la práctica con los robots
 reales.
 
 ### Simulación 
