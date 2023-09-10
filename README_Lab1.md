@@ -22,8 +22,8 @@ Se puede evidenciar en la imagen un bloque de dimensiones 18cmx18cmxN, sobre las
 
 En esta imagen se puede observar mejor detalladas las curvas de los trazos.
 
-<img src="/BrazoF2.png">
-<img src="/BrazoFisico.png">
+<img src="/BrazoF2.png" width="400" height="400" align="left">
+<img src="/BrazoFisico.png" width="400" height="400" align="left">
 
 En estas imagenes se muestra como se posiciona el robot sobre el area de trabajo.
 
