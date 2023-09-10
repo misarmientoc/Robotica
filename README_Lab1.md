@@ -35,6 +35,9 @@ Los materiales necesarios para la construcción de la herramienta, serán detall
 
 2. Diagrama de flujo de acciones del robot
 3. Plano de planta de la ubicación de cada uno de los elementos.
+Se presenta a continuación una imagen del plano de planta, el cual se puede encontrar como /layout.pdf
+ ![image](https://github.com/misarmientoc/Robotica/assets/66492359/f284043a-641f-4f7f-bf3f-3810d222082f)
+  
 4. Descripción de las funciones utilizadas.
 
 El código está organizado en módulos y procedimientos (PROC). Cada procedimiento representa una secuencia la secuencia de movimientos que el robot debe llevar a cabo.
